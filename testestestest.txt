@@ -1,0 +1,3 @@
+eu estou codando em c
+
+Int main fodase
